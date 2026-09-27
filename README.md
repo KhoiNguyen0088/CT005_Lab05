@@ -18,6 +18,6 @@ Trang HTML giới thiệu thông tin cá nhân và các sản phẩm đã thực
 
 ## Thông tin sinh viên
 
-- Họ và tên: Huynh Khoi Nguyen
+- Họ và tên: Huỳnh Khôi 
 - MSSV: B2605446
-- Bài thực hành: CT005 – Lab05
+- Lớp thực hành : CT005

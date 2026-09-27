@@ -1,5 +1,5 @@
 
-# CT005 – Lab05 – Huynh Khoi Nguyen – B2605446 – Lớp học phần
+# CT005 – Lab05 – Huỳnh Khôi Nguyên – B2605446 – CT005
 
 ## Giới thiệu
 

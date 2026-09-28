@@ -18,6 +18,6 @@ Trang HTML giới thiệu thông tin cá nhân và các sản phẩm đã thực
 
 ## Thông tin sinh viên
 
-- Họ và tên: Huỳnh Khôi 
+- Họ và tên: Huỳnh Khôi Nguyên
 - MSSV: B2605446
 - Lớp thực hành : CT005
